@@ -4,7 +4,8 @@
   "description": "",
   "main": "addCommas.js",
   "scripts": {
-    "test": "jest addCommas.test.js"
+    "start": "node addCommas.js",
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
